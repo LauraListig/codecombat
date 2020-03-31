@@ -159,7 +159,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     follow_us: "Síguenos"
     general: "General"
     map: "Mapa"
-    play: "Jugar" # The top nav bar entry where players choose which levels to play
+    play: "Jugar" # En la barra de navegación superior, los jugadores pueden elegir los niveles para jugar.
     community: "Comunidad"
     courses: "Cursos"
     blog: "Blog"
@@ -197,7 +197,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     resource_hub: "Centro de recursos"
     apcsp: "Principios AP CS"
     parent: "Padres"
-#    browser_recommendation: "For the best experience we recommend using the latest version of Chrome. Download the browser here!"
+#    browser_recommendation: "Para una mejor experiencia se recomienda usar la última versión de Chrome. Descarga el navegador aquí!"
 
   modal:
     close: "Cerrar"
